@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(209, 206, 206); 
-    background: url(img/b-n-w-bckgrnd.jpg);
+    background-color: #f2f2f2; 
+  /*  background: url(img/b-n-w-bckgrnd.jpg); */
     background-size: cover;
   }
   .page {
